@@ -1,0 +1,44 @@
+html,body{
+	padding: 0px;
+	outline: 0px;
+	border: 0px;
+	margin: 0px;
+	height: 100%;
+	width: 100%;
+}
+
+#vc1{
+	visibility: hidden;
+}
+
+.container{
+	display : inline;
+	float: left;
+}
+
+#option1{
+	background-image: url(http://media.giphy.com/media/PE50GCWPRXs88/giphy.gif);
+	background-repeat: no-repeat;
+	background-position: center; 
+	background-size: 100%;
+}
+
+#option2{
+	background-image: url(http://media.giphy.com/media/n5xaznEHC98ru/giphy.gif);
+	background-repeat: no-repeat;
+	background-position: center; 
+	background-size: 100%;
+}
+
+#option3{
+	background-image: url(http://media.giphy.com/media/14aQxXZiw8rEMo/giphy.gif);
+	background-repeat: no-repeat;
+	background-position: center; 
+	background-size: 100%;
+}
+
+.titles{
+	position: relative;
+	top: 18%;
+	cursor: pointer;
+}
