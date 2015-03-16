@@ -1,6 +1,6 @@
 # Company_Personality_Insights
 
-# Winner of the best use of IBM Bluemix at HackNY #
+## Winner of the best use of IBM Bluemix at HackNY ##
 ---------------------------------------------------
 http://challengepost.com/software/versona
 
