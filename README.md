@@ -21,3 +21,5 @@ Apis used:
 Please contact me at taeiscoolaboy@gmail.com if you have any questions! 
 
 (I created this email when I was in 6th grade lol)
+
+Copyright (c) 2015 Tae Hong Min
